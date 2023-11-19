@@ -1,0 +1,8 @@
+{
+  "label": "Milkv Duo",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Milkv Duo 是一个基于CV1800B芯片的超紧凑嵌入式开发平台，可以运行Linux和RTOS。"
+  }
+}
