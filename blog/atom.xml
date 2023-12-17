@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://judehahh.github.io/blog</id>
     <title>Jude's Space Blog</title>
-    <updated>2023-11-19T00:00:00.000Z</updated>
+    <updated>2023-12-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://judehahh.github.io/blog"/>
     <subtitle>Jude's Space Blog</subtitle>
     <icon>https://judehahh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023-12-27 Daily Blog Post]]></title>
+        <id>https://judehahh.github.io/blog/2023-12-27-daily-blog-post</id>
+        <link href="https://judehahh.github.io/blog/2023-12-27-daily-blog-post"/>
+        <updated>2023-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天休息半天看了下 zig 和 ysyx，想试一下用 zig 做项目了，之后做一下 zig-sbi 或者 zigEMU。]]></summary>
+        <content type="html"><![CDATA[<p>今天休息半天看了下 zig 和 ysyx，想试一下用 zig 做项目了，之后做一下 zig-sbi 或者 zigEMU。</p>
+<p>ysyx 感觉是个不错的教程，可以跟着做一个模拟器和 riscv 核，答辩写报告好像有点复杂。。做一个旁听生好了😂。</p>]]></content>
+        <author>
+            <name>Judehahh</name>
+            <uri>https://github.com/judehahh</uri>
+        </author>
+        <category label="日志" term="日志"/>
+        <category label="学习" term="学习"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
         <id>https://judehahh.github.io/blog/first-blog-post</id>
